@@ -11,7 +11,7 @@ Yoruba Richen, <i>The Green Book Guide to Freedom</i>, 2019
 
 MSU Broad Museum, <i>Interstates of Mind</i>, Now!, https://broadmuseum.msu.edu/exhibitions/interstates-of-mind
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1CEghYHBeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Kalamazoo Public Library, "Whatever Happened to Idlewild?", https://youtu.be/c1CEghYHBeQ
 
 
 ### <b> For Reading</b>
