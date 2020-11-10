@@ -5,6 +5,11 @@ Jacob Lawrence, <i>The Migration Series</i> https://lawrencemigration.phillipsco
 
 Schomburg Center for Research in Black Culture at the New York Public Library, The Green Book Digital Collection, https://digitalcollections.nypl.org/collections/the-green-book#/?tab=about
 
+History of Grand Rapids, The HOLC Map, http://www.historygrandrapids.org/tilemap/2596/the-holc-map
+
+<i>The Negro Traveler's Green Book</i>, Map of locations in the 1956 issue, https://www.google.com/maps/d/u/0/viewer?msa=0&hl=en&ie=UTF8&t=h&ll=38.16386836996115%2C-85.5739431679195&spn=10.467549%2C14.369103&source=embed&mid=1Dh4EC0glByrNgb95JJpHrcMKiOs&z=5
+
+
 ### <b>For Viewing</b>
 
 Yoruba Richen, <i>The Green Book Guide to Freedom</i>, 2019
