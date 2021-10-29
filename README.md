@@ -1,5 +1,5 @@
 ## History of Black American Travel & Tourism Sources
-https://dmwillcutt.github.io/MichiganHistory/
+https://dmwillcutt.github.io/MichiganHistory
 
 ### <b>For Browsing</b>
 Jacob Lawrence, <i>The Migration Series</i> https://lawrencemigration.phillipscollection.org/
